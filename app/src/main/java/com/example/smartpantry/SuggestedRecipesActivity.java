@@ -137,7 +137,6 @@ public class SuggestedRecipesActivity extends AppCompatActivity {
 
         return name;
     }
-
     @Override
     protected void onResume() {
         super.onResume();
