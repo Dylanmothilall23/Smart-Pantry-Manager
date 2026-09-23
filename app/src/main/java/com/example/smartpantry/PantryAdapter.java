@@ -100,7 +100,7 @@ public class PantryAdapter extends RecyclerView.Adapter<PantryAdapter.PantryView
     public int getItemCount() {
         return names.size();
     }
-    //Validates class that referneces
+    //Validates class that refer
     public static class PantryViewHolder extends RecyclerView.ViewHolder {
 
         TextView txtIngredientName;
