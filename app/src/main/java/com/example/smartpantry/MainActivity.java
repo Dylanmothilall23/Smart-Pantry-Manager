@@ -73,7 +73,7 @@ public class MainActivity extends AppCompatActivity {
         //Refresh pantry list
         loadPantry();
     }
-    //Queries the database for all pantry items and displays if they exist
+    // Queries the database for all pantry items and displays if they exist
     private void loadPantry() {
         ids.clear();
         names.clear();
