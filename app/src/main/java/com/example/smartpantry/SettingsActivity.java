@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class SettingsActivity extends AppCompatActivity {
     // UI
     private Switch switchExpiryAlerts;
-    //Storage
+    //Storages
     private SharedPreferences preferences;
 
     @Override
