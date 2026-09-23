@@ -102,7 +102,7 @@ public class AddIngredientActivity extends AppCompatActivity {
             }
         }
     }
-    //Highlights an error
+    //Highlights an error when it happens
     private void showError(EditText field, String message) {
         field.setError(message);
         field.requestFocus();
